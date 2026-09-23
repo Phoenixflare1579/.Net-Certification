@@ -5,7 +5,7 @@ Overview
 --------
 This repository contains a simple ASP.NET Core Web API (targeting .NET 10) for managing users. I assisted by scaffolding the project structure, adding a User model and controller endpoints, and implementing middleware to satisfy TechHive Solutions policies for logging, standardized error handling, and token-based authentication.
 
-What I changed / implemented
+What Copilot changed / implemented
 ----------------------------
 - Created a User model with data annotations to validate first name, last name, and email.
 - Implemented CRUD API endpoints (in UsersController) using an in-memory store for demonstration.
