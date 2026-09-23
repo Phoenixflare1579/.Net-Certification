@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EsV/DlNucrQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\noahl\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noahl\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\noahl\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
